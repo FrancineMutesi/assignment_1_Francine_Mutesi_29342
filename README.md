@@ -519,6 +519,10 @@ Some customers may not have placed any orders.
 - README.md — Project documentation and explanations.
 - sunrise_supermarket.sql — SQL script containing table creation, data insertion, JOIN queries, CTE query, window functions, and COMMIT.
 
+## Screenshots
 
+The sunrise_supermarket folder contains screenshots showing the execution and results of the SQL queries in Oracle Database, including the JOIN queries, CTE query, and window-function queries.
+
+[View all Oracle SQL screenshots](./sunrise_supermarket/)
 
 *PLSQL Assignment One - Sunrise Supermarket*
